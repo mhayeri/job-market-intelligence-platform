@@ -1,0 +1,5 @@
+# this directory is used to store the source data
+data/
+
+# tools directory
+tools/
