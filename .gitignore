@@ -3,3 +3,6 @@ data/
 
 # tools directory
 tools/
+
+# virtual environment
+.venv/
